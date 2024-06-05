@@ -1,8 +1,8 @@
 ---
-name: '📣 Masa Product Release'
-about: 'Start a new Masa Product release.'
+name: 'Masa Protocol Release'
+about: 'Start a new Masa Protocol release.'
 labels: release
-title: 'Masa Product release v'
+title: '📣 Masa Protocol release v'
 assignees: teslashibe, mudler
 ---
 
