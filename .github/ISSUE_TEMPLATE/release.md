@@ -1,5 +1,5 @@
 ---
-name: 'Masa Product Release'
+name: '📣 Masa Product Release'
 about: 'Start a new Masa Product release.'
 labels: release
 title: 'Masa Product release v'
