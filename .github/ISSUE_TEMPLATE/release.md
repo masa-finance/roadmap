@@ -29,5 +29,7 @@ assignees: teslashibe, mudler
   - [ ] Tag Oracle
   - [ ] Tag SDK
   - [ ] CLI and App needs to point to SDK version and have its own tag
-- [ ] **Stage 4 - After release
-  - [ ] ...
+- [ ] **Stage 4 - After release**
+  - [ ] Release notes needs to be updated in the documentation here: https://developers.masa.ai/docs/masa-oracle/RELEASE_NOTES
+  - [ ] Update notion documentation about release
+
