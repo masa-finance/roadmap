@@ -41,6 +41,7 @@ Epics should be bigger issues that does not fit into a single ticket. It is best
 - "swimlane" - priority cards that needs to be picked up during planning/sprint if urgent
 - "qa" - cards that requires only QA check
 - "doc" - documentation card
+- "blocked" - cards that are blocked by other (dependencies)
 
 ## Demos
 
