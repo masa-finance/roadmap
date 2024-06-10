@@ -13,6 +13,7 @@ During planning sessions, for each team, the Scrum Master should:
   - Every card in the sprint:
     - Should have enough information for anyone in the team to pick that up
     - Every card should have a clear Problem statement,  an Acceptance criteria list if it's a spike, Action items if it's an implementation card
+    - Ask for every card if it's clear for everyone
 - Optionally, the team and the Scrum Master may estimate task sizes.
 - Optionally, calculate the team's velocity.
 - Review planned releases and prioritize tasks for the sprint backlog ( https://github.com/orgs/masa-finance/projects/12 ).
