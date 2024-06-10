@@ -2,7 +2,7 @@
 
 Daily standups should focus on current sprint goals and potential blockers. 
 Each engineer has the opportunity to discuss their daily agenda and any challenges they face. 
-A recommended approach is to start with one person chosen randomly who then nominates the next speaker.
+A recommended approach is to start with one person chosen randomly who then nominates the next speaker. Ideally each engineer has a maximum of 3 to 5 minutes, anything else has to be taken offline, or decide to arrange a follow-up call to discuss the specific topic.
 
 ## Plannings ceremonies
 
@@ -42,14 +42,16 @@ Epics should be bigger issues that does not fit into a single ticket. It is best
 - "qa" - cards that requires only QA check
 - "doc" - documentation card
 - "blocked" - cards that are blocked by other (dependencies)
+- "pairing-needed" - A card that calls an implementation, or a spike with a team member (XP)
+- "question" - A non-clear issue that needs more context added
+  
+## Extreme programming - `pairing-needed`
+
+Two programmers work together by pairing in a call (if remotely) or in a single workstation. One writes the code(driver) while the other reviews each line of code as it is typed in and provides feedback, reasoning if the approach would be able to work(navigator). The roles switch frequently. Often paired with TDD (Test-Driven Development).
 
 ## Demos
 
 Teams should schedule bi-weekly or monthly demos to showcase their work to peers. If applicable, a dedicated page should be set up for team members to request presentation slots.
-
-## Retros
-
-Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
 
 ## Team healthchecks
 
@@ -60,3 +62,7 @@ The document needs to be completed async by the team members, and sent to the sc
 ## Watercooler meeting
 
 Informal watercooler meetings can be helpful to maintain team morale and foster a positive work environment.
+
+## Retros
+
+Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
