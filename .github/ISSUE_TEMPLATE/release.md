@@ -1,8 +1,8 @@
 ---
-name: 'Masa Protocol Release'
-about: 'Start a new Masa Protocol release.'
+name: 'Masa Oracle Release'
+about: 'Start a new Masa Oracle release.'
 labels: release
-title: '📣 Masa Protocol release v'
+title: '📣 Masa Oracle release v'
 assignees: teslashibe, mudler
 ---
 
