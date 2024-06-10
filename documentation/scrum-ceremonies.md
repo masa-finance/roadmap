@@ -61,6 +61,7 @@ If the action items are well known an implementation card can be directly create
 - add links to cross-reference follow-ups
 - Make it sure it has a checklist for each issue
 - Make it sure that the checklist has at least an item for QA and one for documentation
+- No more then 2 people in parallel on the same card
 
 ## Extreme programming - `pairing-needed`
 
