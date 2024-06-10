@@ -101,7 +101,15 @@ Something to play also in the meeting can be:
 - http://sauerbraten.org/
 - CS:GO
 - ... suggest yours!
-  
+
 ## Retros
 
 Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
+
+## Notes
+
+We are trying to get only the good things of scrum! Do consider which things of the process to use depending on the current team state. 
+
+https://x.com/rita_codes/status/1800151063602811159
+
+Do not have "too many meetings" but try to strike a balance - that's why dailies should be optional, or demos and retros often planned as bi-weekly or even monthly. Keep always a room for watercooling, and leave sync-ups and pairing to the team in order to meet deadlines. Context switch is often unnecessary and steal precious engineer focus away.
