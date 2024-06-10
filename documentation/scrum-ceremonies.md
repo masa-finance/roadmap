@@ -8,7 +8,7 @@ A recommended approach is to start with one person chosen randomly who then nomi
 
 During planning sessions, for each team, the Scrum Master should:
 
-- Review the "Done" column with the team to confirm the completion of tasks.
+- Review the "Done" column with the team to confirm the completion of tasks. Once all the cards were analyzed, "archive all" of them to not make them visible anymore in the sprint view.
 - Assess tasks with the team in the "Under Review/QA" column to determine necessary actions for completion, going one by one to the tickets.
 - Examine the "In Progress" tasks, checking the status of each with the team.
 - Groom the "No Status/Backlog" items, moving relevant tasks into the sprint backlog.
