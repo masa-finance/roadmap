@@ -32,6 +32,16 @@ Spike tasks should comprehensively document all research findings. Necessary fol
 
 Epics should be bigger issues that does not fit into a single ticket. It is best to have epic tickets to track big features, breaking changes, or changes that imply changes in different codebases.
 
+## Cards tags
+
+- "triage" - all new cards opened during a sprint that needs to be discussed during planning
+- "release" - release tracker cards
+- "epic" - epic cards (see above)
+- "spike" - spike cards (see above)
+- "swimlane" - priority cards that needs to be picked up during planning/sprint if urgent
+- "qa" - cards that requires only QA check
+- "doc" - documentation card
+
 ## Demos
 
 Teams should schedule bi-weekly or monthly demos to showcase their work to peers. If applicable, a dedicated page should be set up for team members to request presentation slots.
