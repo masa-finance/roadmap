@@ -24,6 +24,8 @@ During planning sessions, for each team, the Scrum Master should:
 - Assign a release captain if a release is scheduled during the sprint.
 - Optionally, rotate the responsibility of handling interruptions in the team.
 
+Spike -> Epics (optional)? -> Implementation card
+
 ## Spike
 
 Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic. 
@@ -31,6 +33,10 @@ Spike tasks should comprehensively document all research findings. Necessary fol
 ## Epic
 
 Epics should be bigger issues that does not fit into a single ticket. It is best to have epic tickets to track big features, breaking changes, or changes that imply changes in different codebases.
+
+## Implementation card
+
+If the action items are well known an implementation card can be directly created. The implementation card needs to have a Problem statement, and Action items.
 
 ## Cards tags
 
