@@ -4,6 +4,15 @@ Daily standups should focus on current sprint goals and potential blockers.
 Each engineer has the opportunity to discuss their daily agenda and any challenges they face. 
 A recommended approach is to start with one person chosen randomly who then nominates the next speaker. Ideally each engineer has a maximum of 3 to 5 minutes, anything else has to be taken offline, or decide to arrange a follow-up call to discuss the specific topic.
 
+### Async bots
+
+Async bots are helpful to sync teams in different TZs, and also gives a glimpse for anyone on the teams requirements and blockers. Dailies can be also considered optional if async bots are presents, as ideally should give enough context to everyone on the team status.
+
+Example async bots:
+
+- https://app.dailybot.com
+- https://supbot.com
+
 ## Plannings Ceremonies
 
 During planning sessions, for each team, the Scrum Master should:
@@ -76,6 +85,10 @@ Teams should schedule bi-weekly or monthly demos to showcase their work to peers
 Team healthchecks were introduced in Spotify. It's a way to assess the whole team healthcheck at least, in a bi-quarter basis. An example of such a document is: https://miro.com/miroverse/squad-health-check/.
 
 The document needs to be completed async by the team members, and sent to the scrum master to collect and get the output - the output then is presented to the team to discuss action items to fix/address.
+
+## Team size
+
+An ideal team size would be from 3 up to 6 people at maximum.
 
 ## Watercooler meeting
 
