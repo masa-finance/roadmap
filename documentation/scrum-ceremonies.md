@@ -81,6 +81,14 @@ The document needs to be completed async by the team members, and sent to the sc
 
 Informal watercooler meetings can be helpful to maintain team morale and foster a positive work environment.
 
+Something to play also in the meeting can be:
+
+- https://skribbl.io/
+- https://supertuxkart.net/Main_Page
+- http://sauerbraten.org/
+- CS:GO
+- ... suggest yours!
+  
 ## Retros
 
 Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
