@@ -1,6 +1,8 @@
-## Retros
+## Dailies
 
-Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
+Daily standups should focus on current sprint goals and potential blockers. 
+Each engineer has the opportunity to discuss their daily agenda and any challenges they face. 
+A recommended approach is to start with one person chosen randomly who then nominates the next speaker.
 
 ## Plannings ceremonies
 
@@ -22,15 +24,21 @@ During planning sessions, for each team, the Scrum Master should:
 - Assign a release captain if a release is scheduled during the sprint.
 - Optionally, rotate the responsibility of handling interruptions in the team.
 
+## Spike
+
+Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic.
+
+## Epic
+
+Epics should be bigger issues that does not fit into a single ticket. It is best to have epic tickets to track big features, breaking changes, or changes that imply changes in different codebases.
+
 ## Demos
 
 Teams should schedule bi-weekly or monthly demos to showcase their work to peers. If applicable, a dedicated page should be set up for team members to request presentation slots.
 
-## Dailies
+## Retros
 
-Daily standups should focus on current sprint goals and potential blockers. 
-Each engineer has the opportunity to discuss their daily agenda and any challenges they face. 
-A recommended approach is to start with one person chosen randomly who then nominates the next speaker.
+Retrospectives should be conducted monthly or bi-weekly using tools like Jamboards. These sessions aim to categorize events of the previous sprint into three groups: positive (good), negative (bad), and neutral (meh) experiences.
 
 ## Team healthchecks
 
@@ -41,11 +49,3 @@ The document needs to be completed async by the team members, and sent to the sc
 ## Watercooler meeting
 
 Informal watercooler meetings can be helpful to maintain team morale and foster a positive work environment.
-
-## Spike
-
-Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic.
-
-## Epic
-
-Epics should be bigger issues that does not fit into a single ticket. It is best to have epic tickets to track big features, breaking changes, or changes that imply changes in different codebases.
