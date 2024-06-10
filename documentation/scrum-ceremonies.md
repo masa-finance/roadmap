@@ -4,7 +4,7 @@ Daily standups should focus on current sprint goals and potential blockers.
 Each engineer has the opportunity to discuss their daily agenda and any challenges they face. 
 A recommended approach is to start with one person chosen randomly who then nominates the next speaker. Ideally each engineer has a maximum of 3 to 5 minutes, anything else has to be taken offline, or decide to arrange a follow-up call to discuss the specific topic.
 
-## Plannings ceremonies
+## Plannings Ceremonies
 
 During planning sessions, for each team, the Scrum Master should:
 
@@ -26,7 +26,7 @@ During planning sessions, for each team, the Scrum Master should:
 
 ## Spike
 
-Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic.
+Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic. 
 
 ## Epic
 
@@ -44,7 +44,18 @@ Epics should be bigger issues that does not fit into a single ticket. It is best
 - "blocked" - cards that are blocked by other (dependencies)
 - "pairing-needed" - A card that calls an implementation, or a spike with a team member (XP)
 - "question" - A non-clear issue that needs more context added
-  
+- "chore" - small cards that does not need estimation or complex planning
+
+## General reccomendations with cards
+
+- Do keep tickets active: document the iterative thought process
+   - if it's a spike, remind to update with a comment, ideally daily, on what's the conclusions
+   - if it's an implementation, remember to close the issue by linking the relevant PRs that are related to it
+- If there are PRs scoped into epics/trackers, reference that issue in the commit or in the PR description
+- add links to cross-reference follow-ups
+- Make it sure it has a checklist for each issue
+- Make it sure that the checklist has at least an item for QA and one for documentation
+
 ## Extreme programming - `pairing-needed`
 
 Two programmers work together by pairing in a call (if remotely) or in a single workstation. One writes the code(driver) while the other reviews each line of code as it is typed in and provides feedback, reasoning if the approach would be able to work(navigator). The roles switch frequently. Often paired with TDD (Test-Driven Development).
