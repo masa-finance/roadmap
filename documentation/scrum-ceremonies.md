@@ -10,6 +10,9 @@ During planning sessions, for each team, the Scrum Master should:
 - Assess tasks with the team in the "Under Review/QA" column to determine necessary actions for completion, going one by one to the tickets.
 - Examine the "In Progress" tasks, checking the status of each with the team.
 - Groom the "No Status/Backlog" items, moving relevant tasks into the sprint backlog.
+  - Every card in the sprint:
+    - Should have enough information for anyone in the team to pick that up
+    - Every card should have a clear Problem statement,  an Acceptance criteria list if it's a spike, Action items if it's an implementation card
 - Optionally, the team and the Scrum Master may estimate task sizes.
 - Optionally, calculate the team's velocity.
 - Review planned releases and prioritize tasks for the sprint backlog ( https://github.com/orgs/masa-finance/projects/12 ).
