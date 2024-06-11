@@ -1,3 +1,5 @@
+# SCRUM Ceremonies
+
 ## Dailies
 
 Daily standups should focus on current sprint goals and potential blockers. 
@@ -15,7 +17,7 @@ Example async bots:
 
 Suggestion: have separate check-ins for every team to keep workflows scoped.
 
-## Plannings Ceremonies
+## Plannings
 
 During planning sessions, for each team, the Scrum Master should:
 
@@ -35,7 +37,7 @@ During planning sessions, for each team, the Scrum Master should:
 - Assign a release captain if a release is scheduled during the sprint.
 - Optionally, rotate the responsibility of handling interruptions in the team.
 
-## Card
+## Cards
 
 Spike -> Epics (optional)? -> Implementation card
 
