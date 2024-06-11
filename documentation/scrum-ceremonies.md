@@ -13,6 +13,8 @@ Example async bots:
 - https://app.dailybot.com
 - https://supbot.com
 
+Suggestion: have separate check-ins for every team to keep workflows scoped.
+
 ## Plannings Ceremonies
 
 During planning sessions, for each team, the Scrum Master should:
@@ -33,21 +35,23 @@ During planning sessions, for each team, the Scrum Master should:
 - Assign a release captain if a release is scheduled during the sprint.
 - Optionally, rotate the responsibility of handling interruptions in the team.
 
+## Card
+
 Spike -> Epics (optional)? -> Implementation card
 
-## Spike
+### Spike
 
 Spike tasks should comprehensively document all research findings. Necessary follow-ups should be identified and linked to the spike tasks. Ideally, spike documentation should provide sufficient context for any engineer to take over the task without needing prior knowledge of the topic. 
 
-## Epic
+### Epic
 
 Epics should be bigger issues that does not fit into a single ticket. It is best to have epic tickets to track big features, breaking changes, or changes that imply changes in different codebases.
 
-## Implementation card
+### Implementation card
 
 If the action items are well known an implementation card can be directly created. The implementation card needs to have a Problem statement, and Action items.
 
-## Cards tags
+### Cards tags
 
 - "triage" - all new cards opened during a sprint that needs to be discussed during planning
 - "release" - release tracker cards
@@ -61,7 +65,7 @@ If the action items are well known an implementation card can be directly create
 - "question" - A non-clear issue that needs more context added
 - "chore" - small cards that does not need estimation or complex planning
 
-## General reccomendations with cards
+### Notes
 
 - Do keep tickets active: document the iterative thought process
    - if it's a spike, remind to update with a comment, ideally daily, on what's the conclusions
@@ -70,7 +74,8 @@ If the action items are well known an implementation card can be directly create
 - add links to cross-reference follow-ups
 - Make it sure it has a checklist for each issue
 - Make it sure that the checklist has at least an item for QA and one for documentation
-- No more then 2 people in parallel on the same card
+- No more then 2 people working together on the same card. Rotations are OK, but having many hands on the same ticket is an engineering waste of time.
+- Scrum master should let engineers fill the technical details of the tickets during planning: the scrum master has to hand over to engineering filling the details of the ticket and giving context more technical context, especially when coming up with action items - this is also a good mental exercise to check if there is understanding in the engineering team about a specific problem or ticket scope. Architects should be there to provide gudance and context over the roadmap/feature.
 
 ## Extreme programming - `pairing-needed`
 
