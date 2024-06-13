@@ -24,6 +24,7 @@ assignees: teslashibe, mudler
     - [ ] Test smart contract changes in testnet for the chains:
         - [ ] BSC (Binance)
         - [ ] Ethereum
+        - [ ] Base
         - [ ] Solana
         - [ ] Near
     - [ ] Test stacking
@@ -34,6 +35,7 @@ assignees: teslashibe, mudler
   - [ ] Make sure Smart contracts are updated and deployed in the following blockchains
     - [ ] BSC (Binance)
     - [ ] Ethereum
+    - [ ] Base
     - [ ] Solana
     - [ ] Near
 - [ ] **Stage 4 - After release**
