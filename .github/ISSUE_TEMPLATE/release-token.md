@@ -17,16 +17,25 @@ assignees: teslashibe, mudler
 ## ✅ Release Checklist
 
 - [ ] **Stage 0 - Finishing Touches**
-    - [ ] 
-    - [ ] Update release files to bump the version in the Oracle
+    - [ ] Make sure changes to the smart contracts repositories
+    - [ ] Make sure there is enough liquidity "coverage" for stacking amount + calculated rewards of the users
 - [ ] **Stage 1 - Manual testing**
   - How: Using the assets from master, make sure that test scenarios not covered by automatic tests are passing, and that docs are still aligned
-    - [ ] Test smart contract changes in testnet
+    - [ ] Test smart contract changes in testnet for the chains:
+        - [ ] BSC (Binance)
+        - [ ] Ethereum
+        - [ ] Solana
+        - [ ] Near
+    - [ ] Test stacking
+    - [ ] Test unstacking
+    - [ ] Test claiming "locks"
+    - [ ] Test bridge functionalities
 - [ ] **Stage 3 - Release**
   - [ ] Make sure Smart contracts are updated and deployed in the following blockchains
+    - [ ] BSC (Binance)
+    - [ ] Ethereum
     - [ ] Solana
     - [ ] Near
-    - [ ] Ethereum
 - [ ] **Stage 4 - After release**
   - [ ] Release notes needs to be updated in the documentation here: https://developers.masa.ai/docs/masa-oracle/RELEASE_NOTES
   - [ ] Update notion documentation about release
