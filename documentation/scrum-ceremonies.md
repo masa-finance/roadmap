@@ -39,7 +39,7 @@ During planning sessions, for each team, the Scrum Master should:
 
 ## Cards
 
-Spike -> Epics (optional)? -> Implementation card
+Spike(optional) -> Epics (optional)? -> Implementation card
 
 ### Spike
 
