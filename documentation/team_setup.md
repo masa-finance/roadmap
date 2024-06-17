@@ -13,7 +13,7 @@ Optional:
 ## Team Protocol
 
 PO: 
-`@Luka`
+`@Ettore Di Giacinto`
 
 Scrum Master: 
 `@Sebastian Gerske`
