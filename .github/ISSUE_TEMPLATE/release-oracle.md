@@ -10,6 +10,42 @@ assignees: teslashibe, mudler
 
 <List of items with remaining PRs and/or Issues to be considered for this release>
 
+### 🌍 Protocol/P2P
+
+- [ ] item_1
+
+### :test_tube: Code testing
+
+- [ ] item_1
+
+### 🔍 Services
+
+- [ ] item_1
+
+###  📡  Testnet Environment
+
+- [ ] item_1
+
+### :robot: CI and release process
+
+- [ ] item_1
+
+### 🎁 Product:
+
+- [ ] item_1
+
+## 💻 Infra
+
+- [ ] item_1
+
+### :crystal_ball: Metrics 
+
+- [ ] item_1
+
+### 📖 Documentation
+
+- [ ] item_1
+
 ## 🔦 Highlights
 
 < top highlights for this release notes >
