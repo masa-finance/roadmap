@@ -32,7 +32,7 @@ During planning sessions, for each team, the Scrum Master should:
 - Optionally, the team and the Scrum Master may estimate task sizes.
 - Optionally, calculate the team's velocity.
 - Review planned releases and prioritize tasks for the sprint backlog by looking at the next release ( https://github.com/orgs/masa-finance/projects/12 ).
-- Identify and prioritize any critical tasks needing immediate attention (issues with a swimlane priority tag).
+- Identify and prioritize any critical tasks needing immediate attention (issues with a swimlane `prio: high` label).
 - P.O. order tickets in the Sprint column
 - P.O. might ask to get items in the board and be triaged during planning
 - Scrum master help the team to commit to selected items in the sprint backlog, establishing a clear boundary of commitment (waterline) by considering team velocity.
