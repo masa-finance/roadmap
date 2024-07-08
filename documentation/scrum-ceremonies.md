@@ -33,7 +33,8 @@ During planning sessions, for each team, the Scrum Master should:
 - Optionally, calculate the team's velocity.
 - Review planned releases and prioritize tasks for the sprint backlog ( https://github.com/orgs/masa-finance/projects/12 ).
 - Identify and prioritize any critical tasks needing immediate attention (issues with a swimlane priority tag).
-- Commit to selected items in the sprint backlog, establishing a clear boundary of commitment (waterline).
+- P.O. order tickets in the Sprint column
+- Scrum master help the team to commit to selected items in the sprint backlog, establishing a clear boundary of commitment (waterline) by considering team velocity.
 - Assign a release captain if a release is scheduled during the sprint.
 - Optionally, rotate the responsibility of handling interruptions in the team.
 
