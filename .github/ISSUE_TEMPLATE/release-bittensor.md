@@ -58,18 +58,14 @@ assignees: teslashibe, mudler
 
 - [ ] **Stage 0 - Finishing Touches**
     - [ ] Make sure CI tests are passing.
-    - [ ] Ensure SDK is aligned to have the neded Oracle features exposed for the release
-    - [ ] Ensure the CLI is aligned to consume the latest SDK correctly
-    - [ ] There is a Masa-Oracle release
-    - [ ] Update release files to bump the version in the Oracle
+    - [ ] Tag a release out
+    - [ ] Make sure we have container images
 - [ ] **Stage 1 - Manual testing**
-  - How: Using the assets from master, make sure that test scenarios not covered by automatic tests are passing, and that docs are still aligned
-    - [ ] ...
-- [ ] **Stage 3 - Release**
-  - [ ] Tag Oracle
-  - [ ] Tag SDK
-  - [ ] CLI and App needs to point to SDK version and have its own tag
+  - [ ] QA: Follow instructions in [docs/setup](https://github.com/masa-finance/masa-bittensor/tree/main/docs/setup) to make sure everything is accurate and up-to-date
+  - [ ] Make sure we have container images are workflow correctly push images
+- [ ] **Stage 2 - Release**
+  - [ ] Make sure to click on the "generate release notes" so we have the automated release notes, check the preview for any issue
+  - [ ] Make sure in the preview that the PRs in the release notes falls in a category - if it doesn't, label the PRs accordingly and re-generate the release notes
+  - [ ] Tag a release on Github
 - [ ] **Stage 4 - After release**
-  - [ ] Release notes needs to be updated in the documentation here: https://developers.masa.ai/docs/masa-oracle/RELEASE_NOTES
-  - [ ] Update notion documentation about release
-
+  - [ ] Release notes needs to be updated also in the documentation here: https://developers.masa.ai/docs/masa-oracle/RELEASE_NOTES
