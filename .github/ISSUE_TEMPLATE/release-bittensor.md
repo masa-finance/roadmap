@@ -10,6 +10,10 @@ assignees: teslashibe, mudler
 
 <List of items with remaining PRs and/or Issues to be considered for this release>
 
+### :bug: Bug fixes
+
+- [ ] item_1
+
 ### 🌍 Protocol/P2P
 
 - [ ] item_1
