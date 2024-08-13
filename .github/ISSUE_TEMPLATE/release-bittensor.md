@@ -58,18 +58,38 @@ assignees: teslashibe, mudler
 
 < top highlights for this release notes >
 
-## ✅ Release Checklist
+# Release Checklist
 
-- [ ] **Stage 0 - Finishing Touches**
-    - [ ] Make sure CI tests are passing.
-    - [ ] Tag a release out
-    - [ ] Make sure we have container images
-- [ ] **Stage 1 - Manual testing**
-  - [ ] QA: Follow instructions in [docs/setup](https://github.com/masa-finance/masa-bittensor/tree/main/docs/setup) to make sure everything is accurate and up-to-date
-  - [ ] Make sure we have container images are workflow correctly push images
-- [ ] **Stage 2 - Release**
-  - [ ] Make sure to click on the "generate release notes" so we have the automated release notes, check the preview for any issue
-  - [ ] Make sure in the preview that the PRs in the release notes falls in a category - if it doesn't, label the PRs accordingly and re-generate the release notes
-  - [ ] Tag a release on Github
-- [ ] **Stage 4 - After release**
-  - [ ] Release notes needs to be updated also in the documentation here: https://developers.masa.ai/docs/masa-oracle/RELEASE_NOTES
+## Security
+- [ ] Ensure dependencies are up to date and there are no known vulnerabilities.  Run `pip list --outdated` to see outdated dependencies.  If any dependencies need upgrading (and are in fact upgraded), run `pip freeze > requirements.txt` to update the requirements!
+
+## Continuous Integration (CI)
+- [ ] Ensure all CI tests are passing
+  - [ ] Docker Build and Publish / check-and-build (subtensor)
+  - [ ] Docker Build and Publish / check-and-build (subnet)
+  - [ ] Docker Build and Publish / check-and-build (miner)
+  - [ ] Docker Build and Publish / check-and-build (validator)
+  - [ ] Docker Build and Publish / check-and-build (protocol)
+  _it is possible that we will de-couple the protocol CI build and check in future iterations_
+
+## Issue Tracking
+- [ ] Verify there are no blockers to the release
+_a typical release will [look like this](https://github.com/masa-finance/roadmap/issues/33), verify all issues are resolved!_
+
+## Tagging
+- [ ] Tag the `masa-bittensor` release, and ensure the latest tag is visible [here](https://github.com/masa-finance/masa-bittensor/tags)
+
+## Release Notes
+- [ ] Update release notes text.  An example of a previous release is [here](https://github.com/masa-finance/masa-bittensor/releases/tag/v0.5.0), built off of the `release.yml` configuration [here](https://github.com/masa-finance/masa-bittensor/blob/main/.github/release.yml)
+- [ ] Ensure the latest release notes are captured [here](https://github.com/masa-finance/masa-bittensor/blob/main/docs/RELEASE_NOTES.md) so they automatically get published to our dev docs.
+
+## Docker
+- [ ] Confirm that Docker images are published correctly
+_this was resolved in #160 and should work automatically!_
+
+## Documentation
+- [ ] Ensure documentation is updated.  This includes our setup documentation as well as advanced sections.  All markdown files [here](https://github.com/masa-finance/masa-bittensor/tree/main/docs) are automatically pushed to our developer docs website.  If certain documents do not appear, edit the sidebar [here](https://github.com/masa-finance/docs/blob/main/sidebars.js)
+- [ ] Review and update installation instructions if needed: [Installation Guide](https://github.com/masa-finance/masa-bittensor?tab=readme-ov-file#install)
+
+## Notifications
+- [ ] Notify @giovaroma and @lacyg4.
