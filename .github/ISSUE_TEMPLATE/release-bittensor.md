@@ -93,3 +93,4 @@ _this was resolved in #160 and should work automatically!_
 
 ## Notifications
 - [ ] Notify @giovaroma and @lacyg4.
+- [ ] Ask DCG to bump the weights_version - btcli sudo set --param weights_version --value <version> --netuid 42
